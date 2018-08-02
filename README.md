@@ -12,3 +12,13 @@
 * [Java SE 1.3 Archive Downloads](./markdown/1.3.md)
 * [Java SE 1.2 Archive Downloads](./markdown/1.2.md)
 * [Java SE 1.1 Archive Downloads](./markdown/1.1.md)
+
+## 下载时注意事项
+
+由于下载时是从Oracle官网下载，但官网很不人性化地要求注册账号。这里提供一个随机注册的账号方便快速下载:
+
+|    账号  | 密码 
+| ------ | ------
+| rfq02495@urltc.com  | QWEasd@123
+
+如果需要"Accept License Agreement"，请前往[下载网址](http://www.oracle.com/technetwork/java/javase/downloads/java-archive-javase10-4425482.html)点击任意"Accept License Agreement"即可。
